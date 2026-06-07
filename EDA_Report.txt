@@ -1,0 +1,20 @@
+EDA REPORT
+
+Total Orders: 10194
+
+Total Sales: 2326534.35
+
+Total Profit: 292296.81
+
+Average Sales: 228.23
+
+Average Profit: 28.67
+
+Top Products: (Add the top products from your output)
+
+Best Performing Region: (Add from Region analysis)
+
+Most Profitable Category: (Add from Category Profit analysis)
+
+Conclusion:
+The dataset was analyzed using Python and Pandas. Sales, profit, products, regions, and categories were examined to identify business insights.
