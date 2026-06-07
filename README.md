@@ -92,3 +92,91 @@ Built an interactive Power BI dashboard for business insights.
 
 ## Outcome
 Interactive dashboard for business decision-making.
+
+# Task 4 - Data Storytelling & Statistical Validation
+
+## 📊 Project Title
+Superstore Sales Analysis & Hypothesis Testing
+
+---
+
+## 🎯 Objective
+To analyze sales data and validate business assumptions using statistical hypothesis testing.
+
+---
+
+## 📁 Dataset
+- Dataset used: Superstore Sales Dataset (sales.csv)
+- Contains information about:
+  - Orders
+  - Customers
+  - Sales
+  - Profit
+  - Discount
+  - Region
+  - Categories
+
+---
+
+## 🧪 Hypothesis
+
+### Null Hypothesis (H0):
+Discount has no effect on Sales.
+
+### Alternative Hypothesis (H1):
+Discount has a significant effect on Sales.
+
+---
+
+## ⚙️ Methodology
+
+- Data loaded using Pandas
+- Data cleaning performed (handling missing values)
+- Grouped data into:
+  - Discount sales
+  - No discount sales
+- Applied Independent T-Test using SciPy
+
+---
+
+## 💻 Tools Used
+- Python
+- Pandas
+- SciPy
+- VS Code
+
+---
+
+## 📊 Results
+
+- T-statistic: 0.5975  
+- P-value: 0.5501  
+
+---
+
+## 📌 Conclusion
+
+Since the p-value is greater than 0.05, we **accept the null hypothesis**.
+
+👉 There is no statistically significant impact of discount on sales.
+
+---
+
+## 📁 Files Included
+
+- task4.py (Python code)
+- sales.csv (dataset)
+- PPT presentation
+
+
+## 🚀 Key Learning
+
+- Hypothesis testing using Python
+- Business decision validation using statistics
+- Data-driven insights generation
+
+---
+
+##  Acknowledgement
+
+Thanks to **ApexPlanet Software Pvt. Ltd.** for providing this internship opportunity and guiding through real-world data analytics tasks.
